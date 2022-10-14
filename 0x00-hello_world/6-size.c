@@ -1,10 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - prints the size of various types
- * Return: 0 if exited properly, non-zero otherwise
- */
-
+ * main - entry into the program
+ * 
+ * Description: Prints the size of different types in C to
+ * the terminal depending on the whether the system is a 32-bit
+ * or a 64-bit system.
+ * Return: 0 (Success)
+*/
 
 
 int main(void)
