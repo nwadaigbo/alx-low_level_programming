@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - prints the size of various types on
- * the computer it is compilled to run on
- * Return: 0 (Success)
+ * main - prints the size of various types
+ * Return: 0 if exited properly, non-zero otherwise
  */
+
+
 
 int main(void)
 {
