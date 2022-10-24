@@ -3,12 +3,13 @@
 
 /**
  * puts_half - Prints half of a string
- * @s: Half string to be printed
+ * @str: string to be printed
  *
  * Return: void
  */
 
 void puts_half(char *str)
+
 {
 	int count = 0, i;
 
