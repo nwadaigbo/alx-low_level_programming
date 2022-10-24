@@ -2,11 +2,10 @@
 #include <stdio.h>
 
 /**
- * rev_string: Reverses a string
- * @s: String to be reversed
- *
- * Return: void
+ * rev_string: Reverses a string.
+ * @s: String to be reversed.
  */
+
 void rev_string(char *s)
 
 {
